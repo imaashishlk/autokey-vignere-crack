@@ -1,0 +1,78 @@
+Key Length Range (3, 9)
+
+Key Length:  3  Key:  OFV
+Execution Time:  8.146860361099243  seconds
+Key Length:  4  Key:  XZLA
+Execution Time:  15.89601993560791  seconds
+Key Length:  5  Key:  MNYEO
+Execution Time:  23.6158185005188  seconds
+Key Length:  6  Key:  DATABF
+Execution Time:  31.318313121795654  seconds
+Key Length:  7  Key:  QRUCQIM
+Execution Time:  39.03142166137695  seconds
+Key Length:  8  Key:  SOXCDEZA
+Execution Time:  46.669811725616455  seconds
+
+
+Key Length Range (3, 15)
+Key Length:  3  Key:  OFV
+Execution Time:  8.67271876335144  seconds
+Key Length:  4  Key:  XZLA
+Execution Time:  16.822714805603027  seconds
+Key Length:  5  Key:  MNYEO
+Execution Time:  24.549089431762695  seconds
+Key Length:  6  Key:  DATABF
+Execution Time:  32.307865858078  seconds
+Key Length:  7  Key:  QRUCQIM
+Execution Time:  40.247337341308594  seconds
+Key Length:  8  Key:  SOXCDEZA
+Execution Time:  47.85717296600342  seconds
+Key Length:  9  Key:  NPGCCFEYW
+Execution Time:  55.533525466918945  seconds
+Key Length:  10  Key:  DBSQTTRODV
+Execution Time:  63.18096113204956  seconds
+Key Length:  11  Key:  YIGAQSIFACA
+Execution Time:  71.15891122817993  seconds
+Key Length:  12  Key:  CNWAFHVXYCUZ
+Execution Time:  78.82763171195984  seconds
+Key Length:  13  Key:  RABCMAHJRIWAE
+Execution Time:  86.45128107070923  seconds
+Key Length:  14  Key:  KJLHBTAURRIKOZ
+Execution Time:  94.617116689682  seconds
+
+
+Key Length Range (3, 20)
+Key Length:  3  Key:  OFV
+Execution Time:  8.115922451019287  seconds
+Key Length:  4  Key:  XZLA
+Execution Time:  15.826655387878418  seconds
+Key Length:  5  Key:  MNYEO
+Execution Time:  23.65929675102234  seconds
+Key Length:  6  Key:  DATABF
+Execution Time:  31.59873867034912  seconds
+Key Length:  7  Key:  QRUCQIM
+Execution Time:  39.527071714401245  seconds
+Key Length:  8  Key:  SOXCDEZA
+Execution Time:  47.26796817779541  seconds
+Key Length:  9  Key:  NPGCCFEYW
+Execution Time:  55.66874599456787  seconds
+Key Length:  10  Key:  DBSQTTRODV
+Execution Time:  63.32514452934265  seconds
+Key Length:  11  Key:  YIGAQSIFACA
+Execution Time:  70.94649124145508  seconds
+Key Length:  12  Key:  CNWAFHVXYCUZ
+Execution Time:  78.58947896957397  seconds
+Key Length:  13  Key:  RABCMAHJRIWAE
+Execution Time:  86.54087996482849  seconds
+Key Length:  14  Key:  KJLHBTAURRIKOZ
+Execution Time:  94.17956733703613  seconds
+Key Length:  15  Key:  DJHNJMAPWUIYNPA
+Execution Time:  101.8407027721405  seconds
+Key Length:  16  Key:  TORYXYAITYEZEZNJ
+Execution Time:  109.54894089698792  seconds
+Key Length:  17  Key:  BEMBLALEMLUUCDKCA
+Execution Time:  117.5615451335907  seconds
+Key Length:  18  Key:  OEHGCWMNFXSATFHTEQ
+Execution Time:  125.7352147102356  seconds
+Key Length:  19  Key:  DCNFUXZWARASFDMOOQZ
+Execution Time:  134.08299350738525  seconds
